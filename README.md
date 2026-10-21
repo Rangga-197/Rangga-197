@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rangga Hidayat</h1>
-<h3 align="center">Hey there! I'm Rangga Hidayat, a frontend dev who loves taking cool design ideas and turning them into real, fast, and smooth web apps. My go-to stack is React, Next.js, and Tailwind CSS. I usually spend my time fine-tuning component logic, tweaking responsive UI layouts, and making sure everything looks pixel-perfect without breaking the build. Always down to build cool side projects, learn new stuff, or collaborate on open-source. Feel free to check out my repos or drop a message!</h3>
+
+<p align="left">
+Hey there! I'm Rangga Hidayat, a frontend dev who loves taking cool design ideas and turning them into real, fast, and smooth web apps.
+</p>
+
+<p align="left">
+My go-to stack is React, Next.js, and Tailwind CSS. I usually spend my time fine-tuning component logic, tweaking responsive UI layouts, and making sure everything looks pixel-perfect without breaking the build.
+</p>
+
+<p align="left">
+Always down to build cool side projects, learn new stuff, or collaborate on open-source. Feel free to check out my repos or drop a message!
+</p>
 
 - 📫 How to reach me **hidayattranggaa547@gmail.com**
 
